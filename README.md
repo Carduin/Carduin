@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center">A passionate French developer since 2018</h3>
 
-- 🔭 I’m currently working on [the redesign of a banking ecosystem @ BAMI](https://bami.fr)
+- 🔭 I’m currently working on [the redesign of a banking ecosystem @ BAMI](https://www.bami.fr)
 
 - 🌱 I’m currently learning **trending technologies (or trying to)**
 
